@@ -1,0 +1,15 @@
+.cover{
+    position: fixed;
+    background: white;
+    border: 1px solid #dab5d7;
+    box-shadow: 2px 2px 2px #dab5d7;
+    border-radius: 2px;
+    padding: 25px;
+    width: 210px;
+    height: 390px;
+}
+
+.down{
+    margin-top: 40px;
+    width: 160px;
+}

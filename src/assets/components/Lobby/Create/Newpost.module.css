@@ -1,0 +1,31 @@
+.newpost{
+    margin: 5px 250px;
+}
+
+.newpost h2{
+    font-size: 20px;
+    color: #7b5da5;
+    margin-bottom: 8px;
+}
+
+.newpost input, .newpost textarea{
+    width: 100%;
+    line-height: 25px;
+    padding: 6px, 10px;
+    padding-left: 5px;
+    margin: 10px 0;
+    border: 1px solid #dab5d7;
+    border-radius: 5px;
+    box-sizing: border-box;
+    display: block;
+}
+
+.newpost button{
+    background-color: #d297b1;
+    color: white;
+    border: 0;
+    margin-left: 270px;
+    padding: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+}
